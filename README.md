@@ -1,5 +1,7 @@
 # El juego de la vida
 
+<a href="https://juego-de-la-vida-js.netlify.app">Jugar</a>
+
 ## Usando HTML 5, CSS 3 y JavaScript ES6 --> DOM + POO
 
 ### ¿En que consiste el Juego de la Vida?
