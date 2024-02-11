@@ -2,7 +2,7 @@
 
 <a href="https://juego-de-la-vida-js.netlify.app">Jugar</a>
 
-## Usando HTML 5, CSS 3 y JavaScript ES6 --> DOM + POO
+## Usando HTML 5, CSS 3 y JavaScript ES6 >> DOM + POO
 
 ### ¿En que consiste el Juego de la Vida?
 El juego de la vida se desarrolla en un tablero que es el plano cuadriculado e infinito. En una posición del juego algunas de las celdas de la cuadrícula tienen el estatus de "vivas"; las demás celdas son vacías. (Gráficamente, las celdas vivas se representan con el color negro y las vacías con el color blanco.) El juego consiste en una sucesión de cambios de posiciones, donde cada posición se calcula a partir de la posición anterior. De este modo, la evolución del juego solo depende de la posición inicial.
